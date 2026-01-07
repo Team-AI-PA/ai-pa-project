@@ -1,0 +1,6 @@
+rootProject.name = 'AI-PA'
+
+include 'aipa-api'
+include 'aipa-common'
+include 'aipa-domain'
+include 'aipa-infra'

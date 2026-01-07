@@ -1,0 +1,3 @@
+rootProject.name = 'aipa-domain'
+
+include 'aipa-common'
